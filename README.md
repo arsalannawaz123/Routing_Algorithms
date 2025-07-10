@@ -33,7 +33,7 @@ How to Run
 - `PrimMST.java`: Runs the MST algorithm
 - `Vertex.java`, `Edge.java`: Helper classes for graph structure
 
- Name: Tanzila Fatima
+ Name: Tanzila Fatima, Arsalan Nawaz, Hamza
 
 
 
